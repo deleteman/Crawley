@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"precond",
+				"precondition_false"
+			],
+			[
+				"precondition_fa",
+				"precondition_false"
+			],
+			[
+				"method_wit",
+				"method_with_params"
+			],
+			[
+				"Instance",
+				"InstanceLevelHooks"
+			],
+			[
+				"precondi",
+				"precondition_true"
+			],
+			[
+				"precon",
+				"precondition_true"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/crawley/core.clj",
+			"settings":
+			{
+				"buffer_size": 458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/crawley/http.clj",
+			"settings":
+			{
+				"buffer_size": 1152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/crawley/client.clj",
+			"settings":
+			{
+				"buffer_size": 491,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/crawley/io.clj",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project.clj",
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 212.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"git",
+				"Git: Graph All"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/fernando/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/var/www/html/crawley/project.clj",
+		"/var/www/html/crawley-old/crawley.clj",
+		"/var/www/html/crawley/src/crawley/client.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/destructuring.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/refs.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/macros.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/atoms.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/recursion.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/creating_functions.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/equalities.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/vectors.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/maps.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/lazy_sequences.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/sets.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/lists.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/sequence_comprehensions.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/functions.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/conditionals.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/higher_order_functions.clj",
+		"/home/fernando/Documents/Clojure Koans/src/koans/runtime_polymorphism.clj",
+		"/var/www/html/conditionator/sample/sample.rb",
+		"/var/www/html/conditionator/.gitignore",
+		"/var/www/html/conditionator/sample/sample-failsafe.rb",
+		"/home/fernando/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/fernando/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/fernando/.config/sublime-text-2/Packages/User/Ruby.sublime-settings",
+		"/var/www/html/conditionator/spec/spec_helper.rb",
+		"/var/www/html/conditionator/Gemfile",
+		"/var/www/html/conditionator/spec/conditionator/conditionator_spec.rb",
+		"/var/www/html/resting_grounds/app/models/bird.rb",
+		"/var/www/html/conditionator/lib/conditionator/hooks.rb",
+		"/var/www/html/conditionator/conditionator.gemspec",
+		"/home/fernando/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/var/www/html/Arkayde/arkayde/app/views/organizations/_courses_filter.html.haml",
+		"/var/www/html/Arkayde/arkayde/.swp",
+		"/home/fernando/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+		"/var/www/html/Arkayde/arkayde/app/models/organization.rb",
+		"/var/www/html/Arkayde/arkayde/app/views/classroom/show.html.haml",
+		"/var/www/html/Arkayde/arkayde/app/controllers/admin_controller.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"433",
+			"21",
+			"l",
+			"herbivore",
+			"_when",
+			"data",
+			"mpoc1",
+			" : \"",
+			"								",
+			"method_fail2",
+			"method_with_failsafe",
+			"preconditions",
+			"and",
+			"hook",
+			"postcond",
+			"postcondition1",
+			"block",
+			"p",
+			"end",
+			"tab_si",
+			"Conditionator",
+			"exception",
+			"pre",
+			"puts",
+			"			",
+			"puts",
+			"alias_method",
+			"alias_method_chain",
+			"HookData",
+			"filters",
+			"	~",
+			"	",
+			"alias_method_chain",
+			"filter",
+			"FilterData",
+			"self",
+			": \"",
+			"name",
+			"for_method",
+			"chain_methods_for",
+			"on_method",
+			"HooksDataMod",
+			"chain_of_excecution",
+			"ctrl+shift+l",
+			"multi",
+			"command",
+			"alpha",
+			"ctrl+s",
+			"ctrl+k",
+			"fright",
+			"ctrl+x",
+			"ctrl+x\nctrl+x",
+			"ctrl+f",
+			"ctrl+b",
+			"ctrl+p",
+			"javascript",
+			"          %span.end.label To\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/crawley/core.clj",
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/crawley/http.clj",
+					"settings":
+					{
+						"buffer_size": 1152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1024,
+								1024
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/crawley/client.clj",
+					"settings":
+					{
+						"buffer_size": 491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/crawley/io.clj",
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "project.clj",
+					"settings":
+					{
+						"buffer_size": 198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true
+}
